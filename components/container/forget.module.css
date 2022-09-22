@@ -1,0 +1,18 @@
+.forget {
+    margin-top: 10px;
+    width: calc((133/360)*100%);
+    /* font-family: 'Montserrat'; */
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 31px;
+    letter-spacing: 0.25px;
+    color: #696CFF;
+    background-color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+    padding: 0px;
+    text-align: left;
+    margin-bottom: 43px;
+}
+

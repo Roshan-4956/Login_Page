@@ -1,0 +1,56 @@
+.sign {
+    display: flex;
+    align-items: center;
+    margin-top: 23px;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.hr {
+    border: 1px solid #DADADA;
+    width: calc((57/360)*100%);
+}
+
+.signIn {
+    width: calc((141/360)*100%);
+    /* font-family: 'Montserrat'; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 31px;
+    letter-spacing: 0.25px;
+    color: #898989;
+    text-align: center;
+}
+
+.google {
+    margin-top: 24px;
+    width: 100%;
+    background: #F2F8F8;
+    border-radius: 39px;
+    display: flex;
+    align-items: center;
+    word-wrap: break-word;
+    justify-content: center;
+    border: none;
+}
+
+.googleImg {
+    width: 25px;
+    height: 25px;
+}
+
+.signGoogle {
+    width: 144px;
+    /* font-family: 'Montserrat'; */
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 31px;
+    border-radius: 39px;
+    letter-spacing: 0.15px;
+    color: #0D0D0D;
+    border: none;
+    word-wrap: break-word;
+    background: #F2F8F8;
+}
