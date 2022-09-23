@@ -9,7 +9,10 @@ export default function Box2() {
           <img src="../images/img5.jpg" alt="" className={classes.img5} />
         </div>
         <img src="../images/img6.jpg" alt="" className={classes.img6} />
-        <img src="../images/img7.jpg" alt="" className={classes.img7} />
+        <div className={classes.overlap}>
+           <img src="../images/img7.png" alt="" className={classes.img7} />
+           <img src="../images/img11.png" alt="" className={classes.img11} />
+        </div>
       </div>
       <div className={classes.box2_sub2}>
         <div className={classes.sub3}>

@@ -33,6 +33,7 @@
     word-wrap: break-word;
     justify-content: center;
     border: none;
+    height: 52px;
 }
 
 .googleImg {

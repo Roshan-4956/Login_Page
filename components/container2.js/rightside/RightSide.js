@@ -4,9 +4,11 @@ import classes from "./rightside.module.css"
 
 export default function RightSide() {
   return (
-    <div className={classes.rightside}>
-      <Box1 />
-      <Box2 />
+    <div className={classes.rightsideWrap}>
+      <div className={classes.rightside}>
+        <Box1 />
+        <Box2 />
+      </div>
     </div>
   )
 }

@@ -8,7 +8,7 @@ export default function Sign() {
         <hr className={classes.hr}/>
     </div>
     <button className={classes.google}>
-        <img src="../images/Google.jpg" alt="" className={classes.googleImg} />
+        <img src="../images/Google.png" alt="" className={classes.googleImg} />
         <span className={classes.signGoogle}>Sign in with Google</span>
     </button>
     </>

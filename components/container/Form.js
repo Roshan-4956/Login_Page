@@ -10,10 +10,10 @@ export default function Form() {
     <div className={classes.inputForm}>
       <form >
         <label htmlFor="email" className={classes.labelEmail}>Email</label>
-        <input type="text" className={classes.inputEmail} placeholder="Loremipsum@gmail.com" ref={inputEmail} />
+        <input type="text" className={classes.inputEmail} placeholder="Enter email address" ref={inputEmail} />
         <label htmlFor="email" className={classes.labelPassword}>Password</label>
         <div className={classes.eye}>
-          <input type="text" className={classes.inputPassword} placeholder="JFGEFVC6337" ref={inputPassword} />
+          <input type="text" className={classes.inputPassword} placeholder="Enter Password" ref={inputPassword} />
           <EyeButton />
         </div>
       </form>
