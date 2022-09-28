@@ -1,5 +1,5 @@
 
-import Homepage from "./container2.js/Homepage";
+import Homepage from "./Desktop_View/Homepage";
 
 export default function Desktop() {
   return (

@@ -4,11 +4,11 @@ export default function Box() {
     <div className={classes.box1}>
       <div className={classes.box1Wrap_1}>
         <div className={classes.box1_sub}>
-          <img src="../images/img1.png" alt="" className={classes.img1} />
-          <img src="../images/img2.png" alt="" className={classes.img2} />
+          <img src="../images/design_images/img1.png" alt="" className={classes.img1} />
+          <img src="../images/design_images/img2.png" alt="" className={classes.img2} />
         </div>
         <div className={classes.box2_sub}>
-          <img src="../images/img3.png" alt="" className={classes.img3} />
+          <img src="../images/design_images/img3.png" alt="" className={classes.img3} />
         </div>
       </div>
         <div className={classes.tagline}>

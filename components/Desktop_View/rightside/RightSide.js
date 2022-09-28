@@ -1,5 +1,5 @@
-import Box1 from "./Box1"
-import Box2 from "./Box2"
+import Box1 from "./Shortsqueeze/Box1"
+import Box2 from "./Design/Box2"
 import classes from "./rightside.module.css"
 
 export default function RightSide() {

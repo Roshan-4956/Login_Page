@@ -1,10 +1,10 @@
-import Account from "./Account"
-import Forget from "./Forget"
-import Form from "./Form"
+import Account from "./Create_Account/Account"
+import Forget from "./Forget_Password/Forget"
+import Form from "./Input_Form/Form"
 import classes from "./home.module.css"
-import Login from "./Login"
-import LoginButton from "./LoginButton"
-import Sign from "./Sign"
+import Login from "./Header/Login"
+import LoginButton from "./Login_Button/LoginButton"
+import Sign from "./Sign_In/Sign"
 
 export default function Home() {
   return (

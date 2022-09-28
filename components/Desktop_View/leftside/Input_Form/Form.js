@@ -1,4 +1,4 @@
-import EyeButton from "./EyeButton"
+import EyeButton from "../Eye_Button/EyeButton"
 import classes from "./form.module.css"
 import { useRef } from "react"
 
