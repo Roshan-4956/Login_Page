@@ -11,8 +11,8 @@ export default function Home() {
      <div className={classes.container}>
             <Login/>
             <Form/>
-            <Forget/>
-            <LoginButton/>
+            {/* <Forget/>
+            <LoginButton/> */}
             <Sign/>
             <Account/>
      </div>

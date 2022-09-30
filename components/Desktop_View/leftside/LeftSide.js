@@ -10,8 +10,8 @@ export default function LeftSide() {
     <div  >
         <Login/>
         <Form/>
-        <Forget/>
-        <LoginButton/>
+        {/* <Forget/> */}
+        {/* <LoginButton/> */}
         <Sign/>
         <Account/>
     </div>
